@@ -1,0 +1,22 @@
+
+.btn{
+    background-color: rgb(201, 188, 188);
+}
+.col{
+    justify-content: center;
+
+    font-size: small;
+    display: felx;
+
+}
+
+.con{
+
+    box-shadow: rgb(71, 71, 65);
+}
+.lighter{
+    height: 700px;
+}
+.card:hover{
+    background-color: #faf5ff;
+}
